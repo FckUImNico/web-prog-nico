@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/Annotation-Validation/validation_tool.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lessonplaner/frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Nico\Documents\new Design" />
+    <option name="cloneParentDir" value="C:\Users\Nico\Documents\frontend" />
   </component>
 </application>
